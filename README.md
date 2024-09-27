@@ -1,10 +1,10 @@
-![PROFILE VIEWERS](https://gpvc.arturio.dev/Ibenrm)
+
 # Ibenrm01
 Hi There 👋, I'm Ibenrm01, You Can Call Iben
 <br>
 <h3>Just a Human</h3>
 
-- 🔭 I’m currently working on **PocketMine Plugins**, **Web Developer**
+- 🔭 I’m currently working on **Web Developer**, **Roblox Server Devs**
 
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ibenrm0185)
@@ -19,4 +19,4 @@ Hi There 👋, I'm Ibenrm01, You Can Call Iben
 ## 👨‍💻 My Skill NOW
 - **My Languages**: HTML, CSS, PHP, JAVASCRIPT, LUA, JAVA
 - **My Framework**: BOOTSTRAP, LARAVEL, jQuery
-- **My Library**: SwiperJs, ChartJs, AOS
+- **My Library**: SwiperJs, AOS
