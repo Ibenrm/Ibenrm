@@ -15,14 +15,10 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
   <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=bf5af2&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Baris 2: GitHub Streak Stats (Sudah diperbesar ke ukuran aslinya) -->
+<!-- Baris 2: Streak & Graph Sejajar Kanan-Kiri dengan Tinggi Sama -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Baris 3: GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" height="215" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" height="215" alt="GitHub Activity Graph" />
 </p>
 
 <!-- Ganti NAMA_REPO_KAMU jika punya project yang rilis filenya ingin dipantau jumlah download-nya -->
