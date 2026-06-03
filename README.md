@@ -15,10 +15,20 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
   <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=bf5af2&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Baris 2: Streak & Graph Sejajar Kanan-Kiri dengan Tinggi Sama -->
+<!-- Baris 2: Tabel Paksaan Kanan-Kiri Tanpa Mengunci Tinggi (Biar Grafik Tidak Menciut) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" height="215" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" height="215" alt="GitHub Activity Graph" />
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
+    <tr>
+      <!-- Kolom Kiri: Streak Stats (Ukuran Otomatis) -->
+      <td align="center" valign="top" width="50%" style="border: none;">
+        <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" width="100%"/>
+      </td>
+      <!-- Kolom Kanan: Activity Graph (Ukuran Otomatis, Lebar Maksimal) -->
+      <td align="center" valign="top" width="50%" style="border: none;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- Ganti NAMA_REPO_KAMU jika punya project yang rilis filenya ingin dipantau jumlah download-nya -->
