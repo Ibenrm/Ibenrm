@@ -10,28 +10,16 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
 
 ## 📊 GitHub Analytics & Achievements
 
-<!-- Baris Atas: Profile Views Counter -->
+<!-- Baris Atas: Profile Views & Streak Stats (Tema Dracula biar senada dengan grafik) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=bf5af2&style=flat-square" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" height="28" />
 </p>
 
-<!-- Baris Kedua: GitHub Trophy (Menampilkan piala berdasarkan commit, repo, follower, dll) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ibenrm&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<!-- Baris Ketiga: GitHub Activity Graph (Grafik garis interaktif kontribusi kamu) -->
+<!-- Baris Kedua: GitHub Activity Graph (Ini yang terbukti berhasil dan keren di screenshot kamu!) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
-
-### 🐍 Contribution Snake Eater
-<!-- Animasi Ular (Tetap pertahankan ini jika kamu sudah mengaktifkan GitHub Actions-nya) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- Ganti NAMA_REPO_KAMU jika punya project yang rilis filenya ingin dipantau jumlah download-nya -->
 <!-- ![GitHub Downloads](https://img.shields.io/github/downloads/Ibenrm/NAMA_REPO_KAMU/total?style=for-the-badge&color=blue) -->
