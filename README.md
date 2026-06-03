@@ -10,24 +10,24 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
 
 ## 📊 GitHub Stats & Activities
 
-<!-- Baris Atas: Profile Views & Streak -->
+<!-- Baris Atas: Profile Views & Streak (Ditambah bypass cache) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dark&hide_border=false" alt="GitHub Streak" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=Ibenrm01&color=blueviolet&style=flat-square&v=2" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com/?user=Ibenrm01&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="28" />
 </p>
 
-<!-- Baris Kedua: Statistik Utama & Bahasa Populer menggunakan server official -->
+<!-- Baris Kedua: Statistik Utama & Bahasa Populer (Ganti ke username Ibenrm01) -->
 <p align="left">
-  <img src="https://github-readme-stats.anuraghazra.com/api?username=Ibenrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=Ibenrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra.com/api?username=Ibenrm01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=Ibenrm01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" height="180" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Snake Eater
-<!-- Gambar ini baru akan muncul jika GitHub Actions sudah kamu RUN -->
+<!-- Animasi Ular (Pastikan workflow GitHub Action 'Generate Datas' sudah di-RUN dan sukses hijau) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibenrm01/Ibenrm01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibenrm01/Ibenrm01/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Ibenrm01/Ibenrm01/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Ganti NAMA_REPO_KAMU jika punya project yang rilis filenya ingin dipantau jumlah download-nya -->
