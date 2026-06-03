@@ -10,27 +10,36 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
 
 ## 📊 GitHub Analytics & Achievements
 
-<!-- Baris 1: Profile Views (Badge Kecil) -->
+<!-- Baris 1: Kumpulan Badge Count (Sejajar Kiri) -->
 <p align="left">
+  <!-- 1. Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=bf5af2&style=flat-square" alt="Profile Views" />
+  
+  <!-- 2. GitHub Followers Counter -->
+  <img src="https://img.shields.io/github/followers/Ibenrm?label=Followers&style=flat-square&color=bf5af2" alt="Followers" />
+  
+  <!-- 3. Repository Download Counter (Ganti NAMA_REPO dengan nama repository-mu) -->
+  <img src="https://img.shields.io/github/downloads/Ibenrm/NAMA_REPO/total?label=Downloads&style=flat-square&color=bf5af2" alt="Total Downloads" />
+
+  <!-- 4. BONUS: Discord Server Status Counter (Hapus tanda komparasi jika ingin dipakai, ganti ID_SERVER) -->
+  <!-- <img src="https://img.shields.io/discord/ID_SERVER_DISCORD_KAMU?label=Discord%20Online&style=flat-square&color=bf5af2" alt="Discord Online" /> -->
 </p>
 
-<!-- Baris 2: Tabel Paksaan Kanan-Kiri Tanpa Mengunci Tinggi (Biar Grafik Tidak Menciut) -->
+<!-- Baris 2: Tabel Paksaan Kanan-Kiri (Streak & Activity Graph) -->
 <p align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
     <tr>
-      <!-- Kolom Kiri: Streak Stats (Ukuran Otomatis) -->
+      <!-- Kolom Kiri: Streak Stats -->
       <td align="center" valign="top" width="50%" style="border: none;">
         <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" width="100%"/>
       </td>
-      <!-- Kolom Kanan: Activity Graph (Ukuran Otomatis, Lebar Maksimal) -->
+      <!-- Kolom Kanan: Activity Graph -->
       <td align="center" valign="top" width="50%" style="border: none;">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
       </td>
     </tr>
   </table>
 </p>
-
 <!-- Ganti NAMA_REPO_KAMU jika punya project yang rilis filenya ingin dipantau jumlah download-nya -->
 <!-- ![GitHub Downloads](https://img.shields.io/github/downloads/Ibenrm/NAMA_REPO_KAMU/total?style=for-the-badge&color=blue) -->
 
