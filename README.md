@@ -10,13 +10,17 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
 
 ## 📊 GitHub Analytics & Achievements
 
-<!-- Baris Atas: Profile Views & Streak Stats (Tema Dracula biar senada dengan grafik) -->
+<!-- Baris 1: Profile Views (Badge Kecil) -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=bf5af2&style=flat-square" alt="Profile Views" />
-  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" height="28" />
 </p>
 
-<!-- Baris Kedua: GitHub Activity Graph (Ini yang terbukti berhasil dan keren di screenshot kamu!) -->
+<!-- Baris 2: GitHub Streak Stats (Sudah diperbesar ke ukuran aslinya) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Baris 3: GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
