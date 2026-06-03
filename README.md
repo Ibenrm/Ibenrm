@@ -13,17 +13,17 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
 <!-- Baris Atas: Profile Views & Streak -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ibenrm&theme=dark&hide_border=false" alt="GitHub Streak" height="28" />
+  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dark&hide_border=false" alt="GitHub Streak" height="28" />
 </p>
 
-<!-- Baris Kedua: Statistik Utama & Bahasa Populer -->
+<!-- Baris Kedua: Statistik Utama & Bahasa Populer menggunakan server official -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibenrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibenrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra.com/api?username=Ibenrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=Ibenrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Snake Eater
-<!-- Animasi Ular yang Memakan Kotak Kontribusi (Wajib aktifkan GitHub Actions agar muncul) -->
+<!-- Gambar ini baru akan muncul jika GitHub Actions sudah kamu RUN -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake.svg">
