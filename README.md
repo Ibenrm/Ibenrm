@@ -3,7 +3,7 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
 <br>
 <h3>Just a Human</h3>
 
-- 🔭 I’m currently working on **Web Developer**, **Roblox Server Devs**
+- 🔭 I’m currently working on **Web Developer**, **Data Analytics**, **Data Engineer**, **Automation**
 
 ## 🚶 Visit Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibenroom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/iben-room-masud-0361892b3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ibenrm0185) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pocketmine01@gmail.com) 
