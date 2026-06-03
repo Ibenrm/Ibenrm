@@ -8,26 +8,29 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
 ## 🚶 Visit Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibenroom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/iben-room-masud-0361892b3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ibenrm0185) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pocketmine01@gmail.com) 
 
-## 📊 GitHub Stats & Activities
+## 📊 GitHub Analytics & Achievements
 
-<!-- Baris Atas: Profile Views & Streak (Ditambah bypass cache) -->
+<!-- Baris Atas: Profile Views Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ibenrm01&color=blueviolet&style=flat-square&v=2" alt="Profile Views" />
-  <img src="https://streak-stats.demolab.com/?user=Ibenrm01&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=Ibenrm&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Baris Kedua: Statistik Utama & Bahasa Populer (Ganti ke username Ibenrm01) -->
-<p align="left">
-  <img src="https://github-readme-stats.anuraghazra.com/api?username=Ibenrm01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=Ibenrm01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" height="180" alt="Top Languages" />
+<!-- Baris Kedua: GitHub Trophy (Menampilkan piala berdasarkan commit, repo, follower, dll) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ibenrm&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- Baris Ketiga: GitHub Activity Graph (Grafik garis interaktif kontribusi kamu) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ### 🐍 Contribution Snake Eater
-<!-- Animasi Ular (Pastikan workflow GitHub Action 'Generate Datas' sudah di-RUN dan sukses hijau) -->
+<!-- Animasi Ular (Tetap pertahankan ini jika kamu sudah mengaktifkan GitHub Actions-nya) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibenrm01/Ibenrm01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibenrm01/Ibenrm01/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Ibenrm01/Ibenrm01/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Ibenrm/Ibenrm/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Ganti NAMA_REPO_KAMU jika punya project yang rilis filenya ingin dipantau jumlah download-nya -->
