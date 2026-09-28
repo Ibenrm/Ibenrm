@@ -19,7 +19,10 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
   <img src="https://img.shields.io/github/followers/Ibenrm?label=Followers&style=flat-square&color=bf5af2" alt="Followers" />
   
   <!-- 3. Repository Download Counter (Migrasi ke Badgen agar bebas dari error token Shields.io) -->
-  <img src="https://badgen.net/github/assets-dl/Ibenrm/NAMA_REPO?label=Downloads&color=bf5af2" alt="Total Downloads" />
+  <img
+  src="https://badgen.net/github/assets-dl/Ibenrm/my-project?label=Downloads&color=bf5af2"
+  alt="Total Downloads"
+/>
 </p>
 
 <!-- Baris 2: Tabel Paksaan Kanan-Kiri (Streak & Activity Graph) -->
@@ -32,7 +35,11 @@ Hi There 👋, I'm Ibenrm01, You Can Call me Iben
       </td>
       <!-- Kolom Kanan: Activity Graph -->
       <td align="center" valign="top" width="50%" style="border: none;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+        <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ibenrm&theme=dracula&hide_border=true&area=true"
+  alt="Ibenrm's GitHub Activity Graph"
+  width="100%"
+/>
       </td>
     </tr>
   </table>
