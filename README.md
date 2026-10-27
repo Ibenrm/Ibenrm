@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Iben%20Room%20Masud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Fullstack%20Developer%20%7C%20Data%20Analytics%20%7C%20Automation%20%7C%20AI%20Engineer&descSize=14&descAlignY=60&descColor=ffffff" alt="Iben Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Iben%20Room%20Masud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Fullstack%20Developer%20%7C%20Data%20Analytics%20%7C%20Automation%20%7C%20AI%20Engineer&descSize=14&descAlignY=60&descColor=ffffff" alt="Iben Profile Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -145,8 +145,8 @@
 ## 📊 GitHub Analytics & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibenrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff" alt="Iben's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenrm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff&langs_count=10" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibenrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff" alt="Iben's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenrm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff&langs_count=10&card_width=467" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -154,5 +154,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer&animation=fadeIn" alt="Iben Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer&animation=fadeIn" alt="Iben Footer Banner" width="100%" />
 </div>
