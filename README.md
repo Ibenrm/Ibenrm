@@ -16,10 +16,26 @@
 
 ## 🔭 What I'm Working On
 
-- 🌐 **Web Developer**
-- 📊 **Data Analytics**
-- 🛠️ **Data Engineer**
-- ⚙️ **Automation**
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="80" height="80" alt="Web Developer" /><br />
+      <b>🌐 Web Developer</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="80" height="80" alt="Data Analytics" /><br />
+      <b>📊 Data Analytics</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="80" height="80" alt="Data Engineer" /><br />
+      <b>🛠️ Data Engineer</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="80" height="80" alt="Automation" /><br />
+      <b>⚙️ Automation</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,9 +54,11 @@
 
 ## 👨‍💻 My Skills Now
 
-### 💻 Languages & Frameworks
+<h3 align="center">💻 Languages & Frameworks</h3>
 
-**Languages**
+<h4 align="center">Languages</h4>
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,7 +70,11 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**Frameworks & Libraries**
+</div>
+
+<h4 align="center">Frameworks & Libraries</h4>
+
+<div align="center">
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
@@ -70,16 +92,24 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### ☁️ API's & Cloud Services
+</div>
+
+<h3 align="center">☁️ API's & Cloud Services</h3>
+
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### 🏗️ Infrastructure & Tools
+</div>
 
-**Web Server & CI/CD**
+<h3 align="center">🏗️ Infrastructure & Tools</h3>
+
+<h4 align="center">Web Server & CI/CD</h4>
+
+<div align="center">
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -87,7 +117,11 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Databases**
+</div>
+
+<h4 align="center">Databases</h4>
+
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -95,26 +129,29 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Version Control**
+</div>
+
+<h4 align="center">Version Control</h4>
+
+<div align="center">
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics & Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibenrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff" alt="Iben's GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibenrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff" alt="Iben's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenrm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff&langs_count=10" alt="Top Languages" width="49%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenrm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer&animation=fadeIn" alt="Iben Footer Banner" />
