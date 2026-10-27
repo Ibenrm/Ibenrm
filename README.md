@@ -41,14 +41,46 @@
 
 ## 🚶 Visit Me
 
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ibenroom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/iben-room-masud-0361892b3)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ibenrm0185)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pocketmine01@gmail.com)
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://instagram.com/ibenroom"><img src="https://capsule-render.vercel.app/api?type=rounded&color=E4405F&height=110&section=header&text=Instagram&fontSize=26&fontColor=ffffff" alt="Instagram" width="100%" /></a>
+      <br /><br />
+      <b>Instagram</b>
+      <br /><br />
+      <sub>Keseharian dan momen santai di luar dunia coding.</sub>
+      <br /><br />
+      <a href="https://instagram.com/ibenroom"><img src="https://img.shields.io/badge/Lihat%20Detail-E4405F?style=for-the-badge" alt="Lihat Detail Instagram" /></a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://id.linkedin.com/in/iben-room-masud-0361892b3"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0077B5&height=110&section=header&text=LinkedIn&fontSize=26&fontColor=ffffff" alt="LinkedIn" width="100%" /></a>
+      <br /><br />
+      <b>LinkedIn</b>
+      <br /><br />
+      <sub>Profil profesional, pengalaman, dan koneksi kerja.</sub>
+      <br /><br />
+      <a href="https://id.linkedin.com/in/iben-room-masud-0361892b3"><img src="https://img.shields.io/badge/Lihat%20Detail-0077B5?style=for-the-badge" alt="Lihat Detail LinkedIn" /></a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://youtube.com/@ibenrm0185"><img src="https://capsule-render.vercel.app/api?type=rounded&color=FF0000&height=110&section=header&text=YouTube&fontSize=26&fontColor=ffffff" alt="YouTube" width="100%" /></a>
+      <br /><br />
+      <b>YouTube</b>
+      <br /><br />
+      <sub>Konten video dan dokumentasi karya saya.</sub>
+      <br /><br />
+      <a href="https://youtube.com/@ibenrm0185"><img src="https://img.shields.io/badge/Lihat%20Detail-FF0000?style=for-the-badge" alt="Lihat Detail YouTube" /></a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="mailto:pocketmine01@gmail.com"><img src="https://capsule-render.vercel.app/api?type=rounded&color=D14836&height=110&section=header&text=Email&fontSize=26&fontColor=ffffff" alt="Email" width="100%" /></a>
+      <br /><br />
+      <b>Email</b>
+      <br /><br />
+      <sub>Hubungi saya untuk kolaborasi atau proyek.</sub>
+      <br /><br />
+      <a href="mailto:pocketmine01@gmail.com"><img src="https://img.shields.io/badge/Lihat%20Detail-D14836?style=for-the-badge" alt="Lihat Detail Email" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -150,7 +182,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ibenrm&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ibenrm&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=9ca3af" alt="GitHub Streak" width="70%" />
 </p>
 
 <div align="center">
